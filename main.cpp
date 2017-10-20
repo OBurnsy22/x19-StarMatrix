@@ -10,7 +10,7 @@ int main() {
 int cols, rows;
 vector <vector<char> > starMatrix;
 
-cout<<"Enter rowns and columns of stars:"<<endl;
+cout<<"Enter rows and columns of stars:"<<endl;
 cin>>rows;
 cin>>cols;
 
